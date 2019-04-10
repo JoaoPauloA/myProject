@@ -9,7 +9,7 @@ export default createStackNavigator({
         navigationOptions: {
             alingItem:"center",
             title: 'Contador',
-            headerStyle: { backgroundColor: '#23292e' },
+            headerStyle: { backgroundColor: '#4285f4' },
             headerTintColor: '#ffffff',
         },
 
